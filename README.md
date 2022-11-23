@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @greatreza
-- 👀 I’m interested in DataAnalysis and DataScience
-- 🌱 I’m currently learning DataAnalysis
+- 👀 Blockchain enthusiast 
+- 🌱 I’m currently backend/blockchain developer in a centerlized exchange
 - 💞️ I’m looking to collaborate on good projects with good goals
 - 📫 How to reach me reza.zeinali21@gmail.com or https://www.linkedin.com/in/reza-zeinali
 
